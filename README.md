@@ -1,4 +1,4 @@
-# Team: MLHacks
+# Team: MINERS
 ## Team Members:
 1. Upamanyu Kashyap
 2. Shivansh Agarwal
