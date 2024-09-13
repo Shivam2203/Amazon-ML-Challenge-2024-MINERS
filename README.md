@@ -1,8 +1,8 @@
 # Team: MLHacks
 ## Team Members:
-Upamanyu Kashyap
-Shivansh Agarwal
-Shivam Patel
+1.Upamanyu Kashyap
+2.Shivansh Agarwal
+3.Shivam Patel
 
 
 # ML Challenge Problem Statement
