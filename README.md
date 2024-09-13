@@ -1,3 +1,10 @@
+# Team: MLHacks
+## Team Members:
+Upamanyu Kashyap
+Shivansh Agarwal
+Shivam Patel
+
+
 # ML Challenge Problem Statement
 
 ## Feature Extraction from Images
